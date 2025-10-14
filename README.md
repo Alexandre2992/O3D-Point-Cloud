@@ -5,6 +5,7 @@ This project was developed by:
 - [Alexandre Braga](https://github.com/Alexandre2992) 
 - [Miguel Bidarra](https://github.com/miguelbidarra)
 
+##Description
 A point cloud is a collection of data points in a 3D coordinate system (X, Y, Z).
 The goal of the program is to manipulate the Data of point clouds to detect the diferent boxes and extract their core properties.
 
