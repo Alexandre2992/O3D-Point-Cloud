@@ -1,7 +1,7 @@
 # Data manipulation in Point cloud images
 
 ## Contributors
-This project was co-developed offline by:
+This project was developed by:
 - [Alexandre Braga](https://github.com/Alexandre2992) 
 - [Miguel Bidarra](https://github.com/miguelbidarra)
 
